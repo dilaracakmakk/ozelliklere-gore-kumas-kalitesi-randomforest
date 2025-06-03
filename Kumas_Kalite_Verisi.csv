@@ -1,0 +1,301 @@
+gramaj,cekme,mukavemet,esneme,opaklik,kalite_turu,elyaf_cinsi,orgu_tipi,dokuma_tipi
+226,4.0,176,10.84,0.45,1. kalite,Yün,Interlok,Düz
+209,3.84,161,24.91,0.77,3. kalite,Yün,Çift plakalı,Atlas
+200,1.73,143,24.86,0.89,2. kalite,Polyester,Ribana,Gabardin
+125,5.4,177,37.0,0.38,2. kalite,Polyester,Tek plakalı,Gabardin
+121,5.01,134,26.96,0.22,1. kalite,Yün,Interlok,Düz
+205,4.53,216,37.41,0.98,3. kalite,Pamuk,Çift plakalı,Gabardin
+223,2.35,280,28.6,0.53,1. kalite,Pamuk,Tek plakalı,Saten
+173,4.49,165,35.53,0.94,1. kalite,Modal,Tek plakalı,Gabardin
+213,3.13,187,23.47,0.9,1. kalite,Pamuk,Çift plakalı,Atlas
+162,4.7,201,6.98,0.78,1. kalite,Modal,Tek plakalı,Düz
+248,2.01,162,14.56,0.49,2. kalite,Yün,Çift plakalı,Düz
+218,3.75,212,16.4,0.5,1. kalite,Viskon,Çift plakalı,Saten
+236,3.17,252,14.23,0.37,3. kalite,Yün,Interlok,Atlas
+220,1.74,139,22.91,0.73,2. kalite,Viskon,Tek plakalı,Gabardin
+154,1.72,128,34.37,0.61,3. kalite,Pamuk,Tek plakalı,Düz
+229,2.6,176,17.84,0.49,2. kalite,Pamuk,Ribana,Düz
+156,4.83,104,6.34,0.64,2. kalite,Yün,Tek plakalı,Gabardin
+131,2.09,175,24.85,0.41,3. kalite,Polyester,Çift plakalı,Atlas
+143,3.75,267,29.27,0.23,1. kalite,Yün,Tek plakalı,Saten
+173,1.8,102,37.43,0.29,3. kalite,Yün,Çift plakalı,Atlas
+205,4.42,256,11.62,0.21,3. kalite,Modal,Ribana,Düz
+223,5.86,228,10.01,0.8,3. kalite,Pamuk,Interlok,Gabardin
+137,3.41,118,31.99,0.26,3. kalite,Pamuk,Çift plakalı,Düz
+203,4.52,105,35.92,0.73,2. kalite,Viskon,Çift plakalı,Atlas
+141,4.88,200,21.09,0.65,2. kalite,Yün,Çift plakalı,Gabardin
+188,3.93,129,10.19,0.87,2. kalite,Viskon,Tek plakalı,Gabardin
+237,5.01,270,13.15,0.28,2. kalite,Modal,Tek plakalı,Saten
+231,3.22,218,31.65,0.9,2. kalite,Pamuk,Tek plakalı,Atlas
+156,5.17,226,33.52,0.67,2. kalite,Pamuk,Interlok,Gabardin
+198,1.82,282,39.87,0.93,3. kalite,Polyester,Tek plakalı,Atlas
+152,1.05,275,13.44,0.8,1. kalite,Viskon,Tek plakalı,Düz
+163,2.0,139,34.15,0.73,2. kalite,Yün,Tek plakalı,Saten
+204,2.95,142,27.55,0.75,3. kalite,Viskon,Ribana,Düz
+123,1.68,151,23.47,0.33,2. kalite,Pamuk,Interlok,Gabardin
+234,3.46,232,5.44,0.9,3. kalite,Viskon,Tek plakalı,Atlas
+240,3.02,211,17.02,0.56,3. kalite,Yün,Çift plakalı,Saten
+222,3.15,222,25.39,0.93,3. kalite,Yün,Çift plakalı,Saten
+130,1.28,240,8.84,0.81,3. kalite,Polyester,Tek plakalı,Atlas
+212,4.85,121,21.8,0.61,3. kalite,Yün,Çift plakalı,Atlas
+168,4.77,257,39.88,0.21,3. kalite,Pamuk,Interlok,Atlas
+221,2.62,113,14.22,0.92,2. kalite,Polyester,Tek plakalı,Saten
+125,1.62,110,28.34,0.93,3. kalite,Viskon,Ribana,Saten
+145,5.11,144,24.48,0.31,1. kalite,Modal,Interlok,Saten
+177,4.64,138,7.86,0.3,2. kalite,Modal,Interlok,Saten
+237,5.76,291,21.65,0.37,3. kalite,Modal,Ribana,Düz
+222,4.11,245,17.93,0.76,1. kalite,Viskon,Tek plakalı,Düz
+185,4.08,178,34.19,0.73,1. kalite,Polyester,Çift plakalı,Gabardin
+219,3.33,248,26.61,0.33,1. kalite,Modal,Tek plakalı,Düz
+136,1.85,238,38.9,0.26,3. kalite,Polyester,Tek plakalı,Atlas
+154,2.62,110,28.21,0.52,1. kalite,Modal,Tek plakalı,Saten
+125,3.6,225,23.77,0.79,3. kalite,Pamuk,Tek plakalı,Atlas
+178,2.34,210,5.67,0.85,2. kalite,Pamuk,Interlok,Düz
+171,5.44,136,5.69,0.8,1. kalite,Pamuk,Çift plakalı,Saten
+152,4.66,119,24.96,0.54,1. kalite,Viskon,Çift plakalı,Düz
+247,1.33,161,17.18,0.81,2. kalite,Viskon,Interlok,Atlas
+202,2.69,136,18.14,0.39,2. kalite,Pamuk,Tek plakalı,Gabardin
+174,5.96,105,32.48,0.95,3. kalite,Viskon,Ribana,Saten
+221,4.22,290,10.62,0.72,3. kalite,Yün,Ribana,Düz
+206,3.63,201,14.06,0.53,1. kalite,Polyester,Interlok,Gabardin
+189,3.27,242,8.24,0.28,2. kalite,Pamuk,Tek plakalı,Saten
+206,1.03,171,15.95,0.61,1. kalite,Pamuk,Ribana,Gabardin
+181,4.03,210,18.95,0.93,2. kalite,Polyester,Interlok,Saten
+198,4.94,208,32.9,0.29,3. kalite,Viskon,Çift plakalı,Saten
+141,1.83,258,8.01,0.81,1. kalite,Viskon,Interlok,Düz
+235,3.17,212,8.61,0.43,2. kalite,Modal,Tek plakalı,Atlas
+164,4.53,156,39.96,0.64,2. kalite,Yün,Ribana,Gabardin
+147,3.27,287,35.64,0.5,3. kalite,Yün,Çift plakalı,Düz
+245,2.44,281,6.87,0.32,2. kalite,Yün,Ribana,Gabardin
+224,4.59,231,20.14,0.64,1. kalite,Polyester,Ribana,Atlas
+182,3.02,194,12.64,0.39,1. kalite,Modal,Çift plakalı,Saten
+225,1.36,200,14.75,0.97,2. kalite,Viskon,Ribana,Atlas
+193,1.84,153,8.32,0.43,3. kalite,Viskon,Ribana,Atlas
+207,5.08,187,27.27,0.74,1. kalite,Pamuk,Çift plakalı,Saten
+206,1.05,142,19.5,0.33,3. kalite,Yün,Interlok,Gabardin
+209,1.79,180,9.4,0.69,3. kalite,Pamuk,Çift plakalı,Düz
+240,2.95,120,18.19,0.38,3. kalite,Pamuk,Tek plakalı,Düz
+137,3.54,252,10.71,0.44,1. kalite,Modal,Ribana,Saten
+220,5.73,219,17.24,0.54,3. kalite,Yün,Çift plakalı,Saten
+121,5.84,216,18.45,0.49,1. kalite,Polyester,Interlok,Atlas
+180,2.65,115,12.04,0.65,2. kalite,Polyester,Çift plakalı,Düz
+134,3.46,117,6.19,0.96,2. kalite,Viskon,Interlok,Düz
+192,2.78,101,39.94,0.65,3. kalite,Yün,Çift plakalı,Gabardin
+168,2.83,145,11.03,0.44,1. kalite,Viskon,Tek plakalı,Saten
+170,3.05,111,34.7,0.99,1. kalite,Polyester,Interlok,Atlas
+184,3.99,184,13.61,0.9,3. kalite,Viskon,Ribana,Atlas
+230,4.84,182,37.82,0.59,1. kalite,Yün,Tek plakalı,Gabardin
+206,3.14,267,11.98,0.28,3. kalite,Viskon,Interlok,Atlas
+204,3.02,179,16.07,0.61,3. kalite,Polyester,Tek plakalı,Saten
+159,4.36,142,36.42,0.41,3. kalite,Yün,Çift plakalı,Gabardin
+195,2.32,289,10.02,0.9,1. kalite,Polyester,Tek plakalı,Düz
+206,3.54,271,10.99,0.9,1. kalite,Yün,Interlok,Saten
+147,1.48,274,5.92,0.65,1. kalite,Pamuk,Interlok,Gabardin
+183,5.2,130,13.39,0.63,1. kalite,Viskon,Ribana,Saten
+199,5.42,228,27.26,0.31,3. kalite,Viskon,Interlok,Düz
+204,2.0,195,30.5,0.81,1. kalite,Pamuk,Ribana,Gabardin
+168,2.64,188,13.92,0.54,1. kalite,Modal,Çift plakalı,Saten
+140,1.68,181,33.69,0.93,3. kalite,Yün,Çift plakalı,Atlas
+171,5.6,138,15.04,0.98,1. kalite,Viskon,Ribana,Gabardin
+200,1.85,242,18.35,0.24,1. kalite,Modal,Ribana,Saten
+176,4.47,203,20.79,0.76,3. kalite,Viskon,Çift plakalı,Saten
+227,5.73,267,35.44,0.22,3. kalite,Viskon,Ribana,Atlas
+196,5.79,171,23.41,0.26,2. kalite,Yün,Ribana,Düz
+148,4.64,170,21.72,0.47,2. kalite,Viskon,Ribana,Gabardin
+162,1.99,278,24.45,0.28,1. kalite,Modal,Ribana,Düz
+155,5.53,262,25.03,0.77,1. kalite,Polyester,Interlok,Atlas
+221,4.81,164,16.05,0.97,2. kalite,Polyester,Tek plakalı,Düz
+159,4.82,263,6.71,0.8,1. kalite,Modal,Tek plakalı,Düz
+154,5.42,197,33.12,0.32,1. kalite,Modal,Ribana,Saten
+178,5.93,236,22.28,0.51,1. kalite,Viskon,Ribana,Atlas
+141,3.59,265,11.54,0.77,3. kalite,Yün,Interlok,Atlas
+164,2.84,237,30.13,0.82,2. kalite,Pamuk,Tek plakalı,Düz
+170,3.54,226,38.61,0.31,1. kalite,Pamuk,Interlok,Düz
+120,5.3,291,20.48,0.77,3. kalite,Viskon,Ribana,Atlas
+128,3.43,168,31.18,0.58,2. kalite,Yün,Çift plakalı,Düz
+188,3.68,187,19.01,0.71,2. kalite,Pamuk,Çift plakalı,Gabardin
+192,1.81,183,25.16,0.99,1. kalite,Yün,Interlok,Atlas
+167,2.96,116,23.44,0.71,3. kalite,Yün,Çift plakalı,Saten
+193,2.14,213,37.6,0.27,2. kalite,Polyester,Ribana,Gabardin
+206,2.14,197,31.09,0.55,3. kalite,Yün,Tek plakalı,Atlas
+162,2.53,245,33.73,1.0,3. kalite,Polyester,Tek plakalı,Atlas
+129,1.94,239,20.55,0.86,1. kalite,Yün,Çift plakalı,Saten
+150,1.59,122,18.11,0.54,3. kalite,Polyester,Tek plakalı,Saten
+175,1.25,119,35.83,0.23,1. kalite,Polyester,Ribana,Gabardin
+184,3.41,143,12.21,0.23,2. kalite,Viskon,Ribana,Saten
+207,4.64,189,33.67,0.66,3. kalite,Pamuk,Çift plakalı,Saten
+215,2.85,296,16.79,0.84,3. kalite,Polyester,Tek plakalı,Atlas
+141,1.39,120,19.98,0.92,3. kalite,Pamuk,Tek plakalı,Düz
+127,3.05,299,28.05,0.65,1. kalite,Modal,Interlok,Düz
+222,1.91,192,11.67,0.34,2. kalite,Viskon,Tek plakalı,Atlas
+242,1.3,198,23.59,0.58,2. kalite,Polyester,Tek plakalı,Gabardin
+242,4.98,224,13.87,0.26,3. kalite,Polyester,Çift plakalı,Saten
+132,5.5,132,30.43,0.26,1. kalite,Polyester,Tek plakalı,Gabardin
+198,3.2,286,24.19,0.42,2. kalite,Polyester,Ribana,Atlas
+206,1.78,205,9.05,0.38,3. kalite,Pamuk,Interlok,Gabardin
+226,3.47,172,32.63,0.23,1. kalite,Modal,Interlok,Düz
+162,3.32,249,9.35,0.81,2. kalite,Viskon,Çift plakalı,Düz
+127,4.79,119,15.42,0.28,2. kalite,Pamuk,Çift plakalı,Atlas
+193,4.51,118,17.0,0.82,3. kalite,Viskon,Interlok,Düz
+169,2.01,216,18.89,0.8,3. kalite,Viskon,Çift plakalı,Düz
+182,2.45,133,27.91,0.67,3. kalite,Viskon,Interlok,Gabardin
+176,3.94,224,31.72,0.76,3. kalite,Pamuk,Interlok,Düz
+230,3.53,270,35.94,0.47,3. kalite,Modal,Çift plakalı,Gabardin
+158,5.91,286,33.58,0.28,3. kalite,Pamuk,Ribana,Düz
+130,3.75,177,11.76,0.53,1. kalite,Pamuk,Tek plakalı,Saten
+142,2.03,173,18.06,0.57,1. kalite,Viskon,Ribana,Gabardin
+195,4.52,137,35.24,0.87,2. kalite,Polyester,Interlok,Gabardin
+133,3.4,297,24.62,0.51,3. kalite,Yün,Çift plakalı,Düz
+236,2.8,183,15.51,0.62,2. kalite,Yün,Ribana,Düz
+248,5.95,220,29.09,0.38,2. kalite,Polyester,Interlok,Saten
+148,3.35,128,11.77,0.97,1. kalite,Pamuk,Çift plakalı,Düz
+194,1.76,228,15.71,0.8,1. kalite,Modal,Interlok,Atlas
+165,1.89,161,39.12,0.69,2. kalite,Modal,Tek plakalı,Saten
+124,1.88,130,17.06,0.91,3. kalite,Viskon,Çift plakalı,Düz
+128,5.69,266,21.29,0.88,1. kalite,Viskon,Ribana,Düz
+188,1.65,229,10.47,0.41,2. kalite,Polyester,Ribana,Atlas
+172,1.4,135,30.04,0.83,1. kalite,Modal,Çift plakalı,Atlas
+185,1.25,246,15.71,0.36,3. kalite,Modal,Tek plakalı,Saten
+135,3.04,222,22.57,0.45,3. kalite,Modal,Ribana,Gabardin
+215,3.98,142,28.07,0.27,2. kalite,Polyester,Tek plakalı,Gabardin
+122,1.64,213,7.1,0.45,1. kalite,Modal,Interlok,Düz
+137,3.66,297,23.87,0.55,1. kalite,Polyester,Ribana,Atlas
+135,3.85,139,14.45,0.56,3. kalite,Yün,Interlok,Düz
+142,2.01,262,12.6,0.72,3. kalite,Modal,Ribana,Atlas
+131,2.0,128,9.72,0.75,1. kalite,Yün,Çift plakalı,Atlas
+135,4.97,119,27.68,0.59,1. kalite,Polyester,Ribana,Gabardin
+140,3.79,200,16.98,0.83,2. kalite,Polyester,Ribana,Atlas
+205,1.91,160,17.83,0.33,1. kalite,Viskon,Tek plakalı,Düz
+151,1.07,214,26.75,0.35,2. kalite,Pamuk,Ribana,Saten
+134,2.12,126,17.33,0.38,3. kalite,Polyester,Çift plakalı,Düz
+159,2.83,215,29.31,0.36,3. kalite,Yün,Interlok,Atlas
+207,5.7,123,12.85,0.94,3. kalite,Polyester,Çift plakalı,Düz
+125,4.51,264,26.14,0.36,1. kalite,Pamuk,Interlok,Düz
+233,3.03,286,36.29,0.96,1. kalite,Pamuk,Tek plakalı,Düz
+146,4.89,226,16.11,0.23,2. kalite,Yün,Tek plakalı,Atlas
+199,5.47,294,33.22,0.59,2. kalite,Modal,Çift plakalı,Gabardin
+187,5.13,140,21.97,0.98,1. kalite,Pamuk,Tek plakalı,Düz
+240,5.91,254,8.53,0.72,1. kalite,Modal,Tek plakalı,Atlas
+212,5.14,217,5.82,0.75,1. kalite,Modal,Tek plakalı,Düz
+243,3.92,229,5.49,0.34,3. kalite,Modal,Interlok,Gabardin
+153,1.86,118,5.88,0.28,1. kalite,Polyester,Ribana,Atlas
+228,1.29,248,13.42,0.23,2. kalite,Viskon,Interlok,Saten
+241,3.45,258,34.53,0.89,1. kalite,Viskon,Tek plakalı,Atlas
+161,5.56,296,33.26,0.97,2. kalite,Modal,Tek plakalı,Atlas
+140,2.61,106,8.92,0.45,2. kalite,Modal,Tek plakalı,Atlas
+120,5.34,129,30.94,0.57,3. kalite,Polyester,Çift plakalı,Düz
+148,4.03,109,35.57,0.46,2. kalite,Modal,Interlok,Gabardin
+238,1.1,170,14.75,0.54,2. kalite,Pamuk,Çift plakalı,Saten
+201,4.42,271,6.1,0.92,1. kalite,Viskon,Çift plakalı,Atlas
+121,1.08,242,33.25,0.34,1. kalite,Polyester,Tek plakalı,Düz
+128,5.15,201,19.62,0.36,3. kalite,Viskon,Ribana,Düz
+138,4.79,202,36.04,0.81,1. kalite,Viskon,Interlok,Gabardin
+186,3.81,273,29.19,0.76,3. kalite,Viskon,Interlok,Düz
+155,1.27,243,20.04,0.28,2. kalite,Polyester,Ribana,Gabardin
+156,5.52,201,26.24,0.66,2. kalite,Modal,Çift plakalı,Atlas
+196,2.41,194,13.3,0.47,2. kalite,Viskon,Ribana,Saten
+232,1.18,199,10.42,0.7,2. kalite,Pamuk,Çift plakalı,Gabardin
+212,1.18,232,30.55,0.88,2. kalite,Viskon,Çift plakalı,Gabardin
+134,1.77,175,29.8,0.29,1. kalite,Modal,Tek plakalı,Saten
+138,2.21,168,20.21,0.47,3. kalite,Polyester,Interlok,Gabardin
+199,1.97,230,20.6,0.34,3. kalite,Viskon,Çift plakalı,Düz
+127,1.25,225,17.38,0.42,2. kalite,Polyester,Tek plakalı,Atlas
+150,5.75,294,25.9,0.25,2. kalite,Yün,Ribana,Düz
+178,1.43,261,14.05,0.29,2. kalite,Pamuk,Ribana,Gabardin
+124,5.01,219,11.13,0.58,3. kalite,Pamuk,Ribana,Gabardin
+175,4.86,235,14.74,0.6,2. kalite,Viskon,Interlok,Düz
+142,5.26,129,11.11,0.71,2. kalite,Pamuk,Tek plakalı,Gabardin
+138,5.63,102,9.85,0.76,2. kalite,Viskon,Interlok,Düz
+186,3.42,156,24.25,0.81,3. kalite,Polyester,Interlok,Atlas
+228,2.57,228,12.71,0.75,3. kalite,Modal,Çift plakalı,Saten
+219,4.57,126,30.51,0.7,3. kalite,Pamuk,Tek plakalı,Düz
+221,2.12,191,30.48,0.82,2. kalite,Polyester,Çift plakalı,Gabardin
+205,3.01,210,35.47,0.23,3. kalite,Modal,Ribana,Atlas
+168,3.66,222,20.09,0.8,2. kalite,Pamuk,Çift plakalı,Atlas
+120,2.34,164,15.08,0.98,2. kalite,Pamuk,Ribana,Düz
+212,3.94,252,31.75,0.2,3. kalite,Yün,Ribana,Gabardin
+134,2.57,270,21.01,0.33,3. kalite,Yün,Interlok,Saten
+211,2.61,255,25.48,0.38,1. kalite,Viskon,Interlok,Atlas
+150,2.72,193,35.81,0.38,1. kalite,Yün,Tek plakalı,Saten
+200,5.51,135,18.36,0.75,1. kalite,Modal,Ribana,Gabardin
+165,2.56,200,37.52,0.36,1. kalite,Polyester,Ribana,Atlas
+167,1.83,274,14.5,0.43,3. kalite,Polyester,Çift plakalı,Düz
+121,5.69,293,22.86,0.38,3. kalite,Viskon,Ribana,Düz
+175,4.13,289,39.41,0.33,3. kalite,Viskon,Çift plakalı,Gabardin
+172,2.15,198,35.79,0.51,3. kalite,Pamuk,Tek plakalı,Atlas
+121,1.47,209,24.8,0.8,3. kalite,Pamuk,Çift plakalı,Gabardin
+134,5.83,105,10.24,0.85,3. kalite,Pamuk,Interlok,Atlas
+126,4.5,206,11.03,0.66,1. kalite,Pamuk,Interlok,Gabardin
+140,1.7,155,29.96,0.7,2. kalite,Pamuk,Ribana,Saten
+211,2.55,144,37.68,0.64,3. kalite,Pamuk,Çift plakalı,Düz
+168,4.1,290,11.82,0.37,3. kalite,Viskon,Çift plakalı,Düz
+245,5.83,204,26.71,0.78,2. kalite,Yün,Ribana,Saten
+149,5.78,244,21.36,0.63,3. kalite,Modal,Interlok,Atlas
+192,4.18,147,6.39,0.82,1. kalite,Viskon,Interlok,Düz
+130,2.93,228,14.32,0.67,2. kalite,Modal,Interlok,Atlas
+168,3.28,128,22.69,0.8,1. kalite,Modal,Ribana,Saten
+214,2.86,149,36.72,0.51,3. kalite,Yün,Çift plakalı,Saten
+248,1.94,273,36.78,0.98,1. kalite,Viskon,Interlok,Gabardin
+134,3.17,162,29.72,0.82,2. kalite,Viskon,Tek plakalı,Düz
+131,2.23,267,36.94,0.78,3. kalite,Modal,Tek plakalı,Gabardin
+223,3.08,112,21.23,0.32,3. kalite,Polyester,Tek plakalı,Gabardin
+189,2.42,143,6.57,0.83,3. kalite,Yün,Interlok,Gabardin
+198,5.41,158,28.43,0.27,1. kalite,Pamuk,Ribana,Gabardin
+210,4.87,229,17.79,0.86,2. kalite,Pamuk,Tek plakalı,Düz
+136,2.74,126,21.13,0.84,1. kalite,Polyester,Tek plakalı,Atlas
+216,4.17,167,25.06,0.87,3. kalite,Yün,Interlok,Düz
+202,5.42,142,7.26,0.3,2. kalite,Polyester,Interlok,Düz
+133,2.86,114,10.96,0.29,1. kalite,Viskon,Tek plakalı,Düz
+125,3.62,199,30.86,0.94,3. kalite,Polyester,Çift plakalı,Atlas
+205,2.75,155,19.79,0.22,2. kalite,Modal,Ribana,Gabardin
+224,3.06,110,29.73,0.29,2. kalite,Modal,Interlok,Saten
+227,2.6,166,27.14,0.96,3. kalite,Modal,Ribana,Atlas
+126,3.43,117,29.53,0.22,3. kalite,Polyester,Tek plakalı,Atlas
+131,3.5,180,31.79,0.34,3. kalite,Yün,Tek plakalı,Atlas
+200,1.09,128,31.24,0.58,2. kalite,Polyester,Çift plakalı,Gabardin
+146,4.53,117,8.09,0.34,1. kalite,Pamuk,Interlok,Gabardin
+121,3.03,169,25.91,0.27,3. kalite,Polyester,Interlok,Saten
+161,3.52,107,5.05,0.33,2. kalite,Polyester,Interlok,Gabardin
+131,4.24,110,24.44,0.41,2. kalite,Modal,Çift plakalı,Atlas
+235,2.46,298,29.34,0.84,1. kalite,Polyester,Tek plakalı,Gabardin
+204,4.05,151,22.23,0.34,2. kalite,Polyester,Tek plakalı,Düz
+227,3.08,137,15.76,0.34,3. kalite,Modal,Tek plakalı,Gabardin
+136,1.12,289,13.94,0.78,1. kalite,Yün,Tek plakalı,Saten
+223,2.56,245,30.86,0.85,3. kalite,Polyester,Ribana,Düz
+231,1.85,135,18.69,0.46,2. kalite,Yün,Interlok,Gabardin
+142,4.04,184,21.06,0.72,3. kalite,Pamuk,Ribana,Saten
+195,4.0,190,7.87,0.68,3. kalite,Polyester,Tek plakalı,Saten
+177,2.83,161,23.32,0.79,3. kalite,Viskon,Interlok,Saten
+237,4.39,264,37.44,0.58,2. kalite,Pamuk,Interlok,Düz
+218,4.93,238,20.11,0.75,1. kalite,Modal,Tek plakalı,Saten
+238,3.66,283,39.64,0.39,1. kalite,Polyester,Tek plakalı,Atlas
+140,1.72,257,5.94,0.32,2. kalite,Pamuk,Ribana,Atlas
+227,1.7,213,27.61,0.87,3. kalite,Polyester,Interlok,Atlas
+157,3.95,278,26.47,0.72,1. kalite,Modal,Ribana,Atlas
+181,1.25,265,33.95,0.62,3. kalite,Modal,Ribana,Düz
+228,2.92,182,30.09,0.41,2. kalite,Yün,Çift plakalı,Atlas
+144,2.46,253,26.95,0.61,2. kalite,Polyester,Ribana,Düz
+127,3.56,103,20.79,0.86,1. kalite,Polyester,Çift plakalı,Düz
+162,5.36,190,37.06,0.35,2. kalite,Modal,Çift plakalı,Düz
+247,5.61,218,29.47,0.77,2. kalite,Polyester,Interlok,Düz
+168,1.55,267,24.35,0.71,2. kalite,Polyester,Ribana,Gabardin
+186,2.53,250,14.9,0.53,1. kalite,Viskon,Çift plakalı,Saten
+205,4.94,148,15.73,0.38,3. kalite,Viskon,Tek plakalı,Atlas
+232,4.75,228,12.82,0.95,2. kalite,Yün,Interlok,Düz
+199,4.38,226,27.29,0.65,3. kalite,Viskon,Tek plakalı,Atlas
+142,1.1,129,35.06,0.67,3. kalite,Pamuk,Interlok,Gabardin
+132,2.17,137,16.63,0.5,1. kalite,Yün,Çift plakalı,Atlas
+189,3.85,267,22.68,0.44,3. kalite,Yün,Ribana,Atlas
+211,1.73,223,6.21,0.61,2. kalite,Modal,Ribana,Atlas
+174,2.44,169,23.59,0.25,3. kalite,Viskon,Çift plakalı,Atlas
+151,5.62,238,36.6,0.38,1. kalite,Yün,Ribana,Düz
+223,5.85,228,37.8,0.94,3. kalite,Pamuk,Interlok,Atlas
+221,4.44,159,31.25,0.45,3. kalite,Yün,Ribana,Düz
+187,4.18,149,5.88,0.32,2. kalite,Polyester,Çift plakalı,Saten
+187,5.53,116,33.61,0.72,3. kalite,Viskon,Ribana,Gabardin
+165,1.64,273,27.18,0.9,3. kalite,Pamuk,Interlok,Atlas
+163,4.65,192,35.34,0.92,3. kalite,Modal,Interlok,Gabardin
+204,1.67,251,13.42,0.32,2. kalite,Polyester,Tek plakalı,Atlas
+232,5.41,236,13.81,0.82,3. kalite,Pamuk,Ribana,Gabardin
+213,4.77,107,16.71,0.83,1. kalite,Pamuk,Çift plakalı,Gabardin
+152,4.65,123,18.68,0.21,2. kalite,Polyester,Çift plakalı,Saten
