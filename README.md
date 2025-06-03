@@ -1,0 +1,1 @@
+# ozelliklere-gore-kumas-kalitesi-randomforest
